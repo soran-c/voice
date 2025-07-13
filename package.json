@@ -1,0 +1,11 @@
+{
+  "name": "voice-signaling-server",
+  "version": "1.0.0",
+  "main": "signaling-server.js",
+  "scripts": {
+    "start": "node signaling-server.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.7.2"
+  }
+}
